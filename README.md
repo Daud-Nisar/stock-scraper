@@ -71,6 +71,9 @@ This will fetch historical data, calculate gain %, and write top 10 gainers next
 > Please ensure you comply with the website's terms of use and avoid overloading or violating any access rules.  
 > Always use scraping tools responsibly.
 
+
+## ⭐️ Support
+
 If you liked this project:
 
 - ⭐️ Star this repository  
