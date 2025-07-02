@@ -15,7 +15,12 @@ A Python-based tool that scrapes historical stock data for a list of symbols fro
 
 ---
 
-<pre> ## 📦 Project Structure ``` stock-scraper/ ├── scraper.py # Main scraping script ├── stock_list.xlsx # Excel input file (auto-created if missing) ├── requirements.txt # Required Python packages └── README.md # You're here! ``` </pre>
+ ## 📦 Project Structure ``` 
+ stock-scraper/ 
+ ├── scraper.py # Main scraping script 
+ ├── stock_list.xlsx # Excel input file (auto-created if missing) 
+ ├── requirements.txt # Required Python packages 
+ └── README.md # You're here! ```
 
 
 ---
